@@ -1,10 +1,11 @@
-[![xFedeT's Profile](https://github-readme-stats.vercel.app/api?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/) 
+[![xFedeT's Profile](https://github-readme-stats.vercel.app/api?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
+</br>
 [![xFedeT's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
-
+</br>
 <a href="https://github.com/xFedeT/xFedeT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFedeT&repo=xFedeT&theme=tokyonight" />
 </a>
-<br></br>
+</br>
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
