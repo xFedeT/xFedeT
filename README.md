@@ -1,4 +1,4 @@
-<p align="center">
+<pa align="center">
   [![xFedeT's Profile](https://github-readme-stats.vercel.app/api?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
   </br>
   [![xFedeT's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=tokyonight)](https://github.com/xFedeT/xFedeT/)
@@ -6,7 +6,7 @@
   <a href="https://github.com/xFedeT/xFedeT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFedeT&repo=xFedeT&theme=tokyonight" />
   </a>
-</p>
+</a>
 
 </br>
 <p align="center">
