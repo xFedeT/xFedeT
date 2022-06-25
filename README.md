@@ -18,7 +18,7 @@
 
 <h2 align="center"> What i've worked on</h2>
 
-[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server.
+<h2 align="center"> [**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. </h2>
 
 
 <hr>
