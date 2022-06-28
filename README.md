@@ -22,7 +22,7 @@
 
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&count_private=true&" alt="xFedeT" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT" alt="xFedeT" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&count_private=true&theme=tokyonight" alt="xFedeT" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=tokyonight" alt="xFedeT" /></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/776478243581853728.png"/> </p>
 <hr>
