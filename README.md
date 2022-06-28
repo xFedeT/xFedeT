@@ -23,5 +23,6 @@
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&count_private=true&" alt="xFedeT" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/776478243581853728.png"/> </p>
 <hr>
