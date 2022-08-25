@@ -16,7 +16,7 @@
 </a>
 </p>
 
-<h2 align="center"> What i've worked on</h2>
+<h2 align="center"> What i'm working on</h2>
 
 [**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. 
 
