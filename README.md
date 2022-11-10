@@ -1,4 +1,4 @@
-<h1 align="center">Benvenuto! 👋</h1>
+<h1 align="center">Benvenuto nel mio Profilo! 👋</h1>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=xFedeT" alt="xFedeT" />
 </p>
@@ -13,9 +13,9 @@
 </a>
 </p>
 
-<h2 align="center"> Dove lavoro...</h2>
+<h2 align="center"> Dove Lavoro...</h2>
 
-[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. 
+[**CoralMC**](https://www.coralmc.it/) - Il più grande server Italiano (per utenti). 
 
 
 <hr>
