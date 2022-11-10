@@ -1,9 +1,9 @@
-<h1 align="center">Welcome in my profile! 👋</h1>
+<h1 align="center">Benvenuto! 👋</h1>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=xFedeT" alt="xFedeT" />
 </p>
 
-<h2 align="center"> What I use regularly</h2>
+<h2 align="center">Cosa uso Regolarmente</h2>
 <p align="center">
 <a href="https://http.cat/200">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -13,7 +13,7 @@
 </a>
 </p>
 
-<h2 align="center"> What i'm working on</h2>
+<h2 align="center"> Dove lavoro...</h2>
 
 [**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. 
 
