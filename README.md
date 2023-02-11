@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<h2 align="center"> Dove Lavoravo...</h2>
+<h2 align="center"> Dove Lavoro...</h2>
 
-[**CoralMC**](https://www.coralmc.it/) - Il più grande server Italiano (per utenti). 
+[**Nessuno**] - Scrivetemi su Discord per Plugin su Misura!
 
 
 <hr>
