@@ -17,8 +17,8 @@
 
 <h2 align="center"> Dove Lavoro...</h2>
 
-[**Nessuno**] - Scrivetemi su Discord per Plugin su Misura!
-
+[**AquariusMC**] - Un server Minecraft nato con il solo scopo di far divertire la nostra community. 
+Scrivetemi su Discord per Plugin su Misura!
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&count_private=true&theme=tokyonight" alt="xFedeT" /></p>
