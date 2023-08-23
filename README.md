@@ -17,7 +17,7 @@
 
 <h2 align="center"> Dove Lavoro...</h2>
 
-[**AquariusMC**] - Un server Minecraft nato con il solo scopo di far divertire la nostra community. 
+[**Coming Soon**] - Mh.... 
 </br>
 Scrivetemi su Discord per Plugin su Misura!
 
