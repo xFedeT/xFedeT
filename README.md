@@ -24,6 +24,6 @@ Scrivetemi su Discord per Plugin su Misura!
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xFedeT" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=xFedeT&theme=gruvbox" alt="xFedeT" /></p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT&theme=gruvbox" alt="xFedeT" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFedeT" alt="xFedeT" /></p>
   <p align="center"><img src="https://discord.c99.nl/widget/theme-2/776478243581853728.png"/> </p>
 <hr>
