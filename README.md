@@ -15,7 +15,7 @@
 </hr>
 
 <hr>
-  <h2 align="center"> Dove Lavoro... </h2>
+  <h2> Dove Lavoro... </h2>
 </hr>
 
 [**CoralMC**](https://github.com/CoralMC-It) - **SkyWars Team Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
