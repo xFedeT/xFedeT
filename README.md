@@ -18,7 +18,7 @@
 
 <h2 align="center"> Dove Lavoro...</h2>
 
-[**CoralMC**](https://github.com/CoralMC-It) - **Team SkyWars** - Server N°1 in italia per qualità del contenuto e per players.
+[**CoralMC**](https://github.com/CoralMC-It) - **SkyWars Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xFedeT" /></p>
