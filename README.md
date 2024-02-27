@@ -19,6 +19,8 @@
 </hr>
 
 [**CoralMC**](https://github.com/CoralMC-It) - **SkyWars Team Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
+[**ArcadiaMC**](https://github.com/Arcadia-Network) - **Moving to CoralMC** - Server N°1 in italia nel gameplay delle SkyWars.
+
 
 <hr>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xFedeT&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="xFedeT" /></p>
