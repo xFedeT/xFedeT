@@ -18,9 +18,9 @@
   <h2> Dove Lavoro... </h2>
 </hr>
 
-[**CoralMC**](https://github.com/CoralMC-It) - **SkyWars Team Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
+[**ObsMC**](https://github.com/CoralMC-It) - ** - Team Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
 <br>
-[**ArcadiaMC**](https://github.com/Arcadia-Network) - **Moving to CoralMC** - Server N°1 in italia nel gameplay delle SkyWars.
+[**ArcadiaMC**](https://github.com/Arcadia-Network) - **Moving to ObsMC** - Server N°1 in italia nel gameplay delle SkyWars.
 
 
 <hr>
