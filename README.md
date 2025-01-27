@@ -18,9 +18,8 @@
   <h2> Dove Lavoro... </h2>
 </hr>
 
-[**ObsMC**](https://github.com/ObsMC-Network) - **Team Head Dev** - Server N°1 in italia per qualità del contenuto e per players.
-<br>
-[**ArcadiaMC**](https://github.com/Arcadia-Network) - **Moving to ObsMC** - Server N°1 in italia nel gameplay delle SkyWars.
+
+[**ArcadiaMC**](https://github.com/Arcadia-Network) - **Moving to ...** - Server N°1 in italia nel gameplay delle SkyWars.
 
 
 <hr>
