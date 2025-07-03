@@ -24,8 +24,9 @@
           <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
       </p>
       <p align="center">
+          <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%230b0b0c.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
           <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-          <img alt"VisualStudioCode" src"https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+          <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       </p>
     </a>
   </p>
