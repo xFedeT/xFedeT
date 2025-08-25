@@ -30,6 +30,7 @@
           <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
           <br>
           <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+          <img alt="Rider" src="https://img.shields.io/badge/rider-%23000000.svg?&style=for-the-badge&logo=rider&logoColor=white"/>
           <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-%23000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white"/>
           <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       </p>
