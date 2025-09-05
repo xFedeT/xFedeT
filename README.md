@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<!-- Foto profilo principale -->
-<img src="https://github.com/xFedeT.png" alt="Federico's Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
-
 **Full Stack Developer**  
 *Passionate about clean software architectures, innovative solutions, and optimization*
 
