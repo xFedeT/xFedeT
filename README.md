@@ -2,6 +2,9 @@
 
 <div align="center">
 
+<!-- Foto profilo principale -->
+<img src="https://github.com/xFedeT.png" alt="Federico's Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
+
 **Full Stack Developer**  
 *Passionate about clean software architectures, innovative solutions, and optimization*
 
@@ -9,12 +12,15 @@
 
 </div>
 
-## 🚀 Skills
+---
+
+## 🚀 About Me
 
 - ☕ Full-Stack Developer specialized in custom Java plugins for Minecraft servers (Spigot/Velocity)  
 - ⚙️ Backend Developer with experience in Java and C#  
 - 🎨 Frontend Developer with skills in React and TypeScript  
 - 🔗 API Architect for scalable systems in Express  
+- 🎮 Passionate about game development and server optimization  
 
 ---
 
@@ -59,30 +65,48 @@
 ## 💼 Professional Experience
 
 **Freelancer** | **[BuildProfit](https://buildprofit.it/)** | *2024 - Present*  
-- No.1 Studio in Italy for Minecraft/Roblox/FiveM and Content Creator services
+- No.1 Studio in Italy for Minecraft/Roblox/FiveM and Content Creator services  
 
 **Developer - Internship** | **[CINECA](https://www.cineca.it)** | *2023*  
-- CINECA is a non-profit Italian inter-university consortium comprising 70 Italian universities, two ministries, and 46 national public institutions. CINECA is a public entity under private law, registered in the Register of Public Administrations.
+- Non-profit Italian inter-university consortium with 70 universities, two ministries, and 46 public institutions.  
 
 **Freelancer** | **[ArcadiaMC](https://www.arcadiamc.it/)** | *2022-2023*  
-- ArcadiaMC was born in 2023 from the idea of ​​bringing Minecraft Italy back to its golden age by providing quality SkyWars to the community at a time when it is lacking.
+- Reviving Minecraft Italy with quality SkyWars gameplay for the community.  
 
 **Plugin Developer** | **[CoralMC](https://www.coralmc.it/)** | *2020 - 2021*  
-- MetaMC is a modern and innovative network, aiming to revolutionize the Italian Minecraft server landscape. MetaMC is the essential second port of call for players seeking an innovative and cutting-edge gaming experience.
+- Innovative Minecraft network shaping the Italian server landscape.  
 
 **Plugin Developer** | **[MetaMC](https://www.metamc.it/)** | *2019*  
-- MetaMC is a modern and innovative network, aiming to revolutionize the Italian Minecraft server landscape. MetaMC is the essential second port of call for players seeking an innovative and cutting-edge gaming experience.
+- Modern and creative network focused on revolutionizing Minecraft servers.  
 
-**Developer - Internship** | **[Dilaxia](www.dilaxia.com)** | *2022 & 2024*  
-- Technology, security, and reliability: Dilaxia supports your digital evolution! Trust IT professionals to manage your IT infrastructure!
+**Developer - Internship** | **[Dilaxia](https://www.dilaxia.com)** | *2022 & 2024*  
+- Supporting digital transformation with technology, security, and reliability.  
 
 ---
 
 ## 📊 GitHub Stats
+Without Private Repository:
+<div align="center">
+<table style="border: none;">
+<tr>
+<td style="border: none;">
+<img src="https://i.imgur.com/EMPkvce.png" alt="GitHub 2024 Year in Code" style="border-radius: 10px;"/>
+</td>
+<td style="border: none;">
+<img src="https://github.com/xFedeT/xFedeT/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📫 Connect with Me
 
 <div align="center">
 
-<img src="https://github.com/xFedeT/xFedeT/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-fedet.it-blue?style=for-the-badge&logo=web)](https://fedet.it/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tagliani.fede@gmail.com)
 
 </div>
 
@@ -91,5 +115,4 @@
 <div align="center">
 
 *"Clean code is not written by following a set of rules. Clean code is written by programmers who care deeply about their craft."* - Robert C. Martin  
-
 </div>
