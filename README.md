@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full Stack Developer & Game Developer**  
+**Full Stack Developer**  
 *Passionate about clean software architectures, innovative solutions, and optimization*
 
 🌐 **[Portfolio](https://fedet.it/)**
