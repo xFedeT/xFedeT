@@ -70,13 +70,13 @@
 **Freelancer** | **[ArcadiaMC](https://www.arcadiamc.it/)** | *2022-2023*  
 - Reviving Minecraft Italy with quality SkyWars gameplay for the community.  
 
-**Plugin Developer** | **[CoralMC](https://www.coralmc.it/)** | *2020 - 2021*  
+**Plugin Developer** | **[CoralMC](https://www.coralmc.it/)** | *2021 - 2022*  
 - Innovative Minecraft network shaping the Italian server landscape.  
 
-**Plugin Developer** | **[MetaMC](https://www.metamc.it/)** | *2019*  
+**Plugin Developer** | **[MetaMC](https://www.metamc.it/)** | *2020*  
 - Modern and creative network focused on revolutionizing Minecraft servers.  
 
-**Developer - Internship** | **[Dilaxia](https://www.dilaxia.com)** | *2022 & 2024*  
+**Developer - Internship** | **[Dilaxia](https://www.dilaxia.com)** | *2022 & 2023*  
 - Supporting digital transformation with technology, security, and reliability.  
 
 ---
