@@ -67,7 +67,7 @@
 **Developer - Internship** | **[CINECA](https://www.cineca.it)** | *2023*  
 - Non-profit Italian inter-university consortium with 70 universities, two ministries, and 46 public institutions.  
 
-**Freelancer** | **[ArcadiaMC](https://www.arcadiamc.it/)** | *2022-2023*  
+**Plugin Developer** | **[ArcadiaMC](https://www.arcadiamc.it/)** | *2022-2023*  
 - Reviving Minecraft Italy with quality SkyWars gameplay for the community.  
 
 **Plugin Developer** | **[CoralMC](https://www.coralmc.it/)** | *2021 - 2022*  
