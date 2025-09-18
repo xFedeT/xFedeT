@@ -73,8 +73,8 @@
 **Plugin Developer** | **[CoralMC](https://www.coralmc.it/)** | *2021 - 2022*  
 - Innovative Minecraft network shaping the Italian server landscape.  
 
-**Plugin Developer** | **[MetaMC](https://www.metamc.it/)** | *2020*  
-- Modern and creative network focused on revolutionizing Minecraft servers.  
+**Plugin Developer** | **[AtlantisRP](https://atlantisrp.it/)** | *2020*  
+- In the monotony of Italian Minecraft roleplay servers, we created Happy Island: a welcoming city in the Canary Islands where you can live the life you’ve always dreamed of—more immersive, dynamic, and realistic.
 
 **Developer - Internship** | **[Dilaxia](https://www.dilaxia.com)** | *2022 & 2023*  
 - Supporting digital transformation with technology, security, and reliability.  
